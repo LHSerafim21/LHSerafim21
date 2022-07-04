@@ -16,7 +16,9 @@
   <img align="center" alt="LHENRIQUE-Java" height="30" width="40" src="https://t.ctcdn.com.br/K7ExAkAuGOPFDxxm3KHEgRm8Xz0=/1024x0/smart/i553155.png">
   <img align="center" alt="LHENRIQUE-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="LHENRIQUE-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="LHENRIQUE-C/C++" height="30" width="30" src="https://www.alura.com.br/artigos/assets/formacao-linguagem-c-plus-plus/img-01.png">
+  <img align="center" alt="LHENRIQUE-C++" height="35" width="35" src="https://www.alura.com.br/artigos/assets/formacao-linguagem-c-plus-plus/img-01.png">
+  <img align="center" alt="LHENRIQUE-C" height="40" width="40" src="https://qph.fs.quoracdn.net/main-qimg-5e0c029605986bc1c4f97e2e433d1de8">
+  <img align="center" alt="LHENRIQUE-C" height="40" width="60" src="https://lh3.googleusercontent.com/jgdqrwrBw5krn9_C1-0XlwVFxXuNu4PAc01Bc3FQOndTTBXfAZT7tcOQ0mJ1S6EUueRBBCZTfKsT46qUkJNtzAS3jKHiyQ-zNdZAxqVGRTYuMQe5Rq0cA-SPmOgBQuj9L8NOSRc6Pvuu6hZsdR0RKVDZXoOa-vtkc3YGfQc3G9T1jpKU3aaWVoOj1ydM95YinVjdMQo9PaoZGmKvyCgoBAK-zIlSbWbXpKp8wwIoyhjCZXAMEjdC6qhUYabetvK8qPrdKLMbDvL2m3YmrcmwwqxgoGgxS0DHncx7xMJrc_izxG0cYY6CqM90tvgMZKBmhrWI3wY7rhDoDlT7m2lj329LB7GbtLOSynUTyROQdeb-gHNKqRhRRfxqXt0CEKBMZd7F7TU7zgrj44isQlnNbiBcej8c0miIx-gA7A8swYvqF0akm3tDDh3agb8vYTtmbwX9ri5ulPRUFG53yLD1HtR4SeaMYYwdoUflaKAQ4IuXe65Dt6w8ij4E6EM3Mfmf0PwHfpSLODm_ZVcL4yzuwLwMoN8Kz7Cg6XaiddheiD9WpIrF14qTj6qNIjYP6FIgc7fUOogTXYCMDfXjw2F-3iC9z1BWF2vrE-y4ExThnXvCz0-R4xv7Zrdwdh8IhdR0sZgbycIDNLm07VBHIgDvkP-jwSziNXC_Ywhf-haOOCzxpDt15uoKyR0I_M5EndrIXzyhhMec_bD2DlW9gD_dp3vWZ84EatxHPbYt9MYrtEdayDQ4jvt5c1R-lgbC02AjkWxLaBewVW-5fzuEhDEDgrNMGySA2OKVxgnPitGV0-W49DnTINHv3wfEEQMDu3xFOA=w620-h315-no?authuser=0">
 </div>
 
  
