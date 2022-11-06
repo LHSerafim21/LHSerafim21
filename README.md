@@ -4,7 +4,7 @@
 - 💻 Tenho uma base forte em C/C++ e Java, e estou estudando Javascript
 - 📫 Contate o EMAIL: luizhserafim2001@hotmail.com
 - 🖌 Portifolio Designe: https://photos.app.goo.gl/i8rH74DQvugSAsHt9
-- - ⚡  Pronomes: Ele/Dele 
+- ⚡  Pronomes: Ele/Dele 
 
 <div align="center">
   <a href="https://github.com/LHSerafim21">
