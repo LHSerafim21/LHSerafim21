@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/LHSerafim21">
-  <img align="left" alt="LHENRIQUE-2D" height="190" width="100" src="https://github.com/LHSerafim21/LHSerafim21/blob/main/Imagens/pintado.png?raw=true">
+  <img align="center" alt="LHENRIQUE-2D" height="190" width="100" src="https://github.com/LHSerafim21/LHSerafim21/blob/main/Imagens/pintado.png?raw=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LHSerafim21&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github.com/LHSerafim21/LHSerafim21/blob/main/Imagens/Most%20Used%20Languages.png?raw=true"/>
 </div>
