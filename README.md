@@ -20,7 +20,7 @@
   <img align="center" alt="LHENRIQUE-C++" height="35" width="35" src="https://www.alura.com.br/artigos/assets/formacao-linguagem-c-plus-plus/img-01.png">
   <img align="center" alt="LHENRIQUE-C" height="40" width="40" src="https://qph.fs.quoracdn.net/main-qimg-5e0c029605986bc1c4f97e2e433d1de8">
   <img align="center" alt="LHENRIQUE-C" height="40" width="60" src="https://github.com/LHSerafim21/LHSerafim21/blob/main/Imagens/SAMAVi-Assembly.png?raw=true">
-    <img align="right" alt="LHENRIQUE-2D" height="190" width="100" src="">
+    <img align="right" alt="LHENRIQUE-2D" height="190" width="100" src="https://github.com/LHSerafim21/LHSerafim21/blob/main/Imagens/Art-Min.png?raw=true">
 </div>
  
  ## Quote:
