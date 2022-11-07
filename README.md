@@ -22,4 +22,7 @@
   <img align="center" alt="LHENRIQUE-C" height="40" width="60" src="https://github.com/LHSerafim21/LHSerafim21/blob/main/Imagens/SAMAVi-Assembly.png?raw=true">
 </div>
 
+ ## Quote:
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
  
