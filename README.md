@@ -8,6 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/LHSerafim21">
+  <img align="left" alt="LHENRIQUE-2D" height="190" width="100" src="https://github.com/LHSerafim21/LHSerafim21/blob/main/Imagens/pintado.png?raw=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LHSerafim21&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github.com/LHSerafim21/LHSerafim21/blob/main/Imagens/Most%20Used%20Languages.png?raw=true"/>
 </div>
@@ -21,7 +22,7 @@
   <img align="center" alt="LHENRIQUE-C" height="40" width="40" src="https://qph.fs.quoracdn.net/main-qimg-5e0c029605986bc1c4f97e2e433d1de8">
   <img align="center" alt="LHENRIQUE-C" height="40" width="60" src="https://github.com/LHSerafim21/LHSerafim21/blob/main/Imagens/SAMAVi-Assembly.png?raw=true">
 </div>
-
+ 
  ## Quote:
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
