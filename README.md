@@ -1,7 +1,7 @@
 ## Olá, meu nome é Luiz Henrique Serafim e sou um programador FULL-STACK ##
 
 - 📚 Atualmente estudo Ciencia da Computação na FCT-UNESP
-- 💻 Tenho uma base forte em C/C++ e Java, e estou estudando Javascript
+- 💻 Tenho uma base forte em C/C++, Java e C#, e estou estudando Ciência de dados
 - 📫 Contate o EMAIL: luizhserafim2001@hotmail.com
 - 🖌 Portifolio Designe: https://photos.app.goo.gl/i8rH74DQvugSAsHt9
 - ⚡  Pronomes: Ele/Dele 
