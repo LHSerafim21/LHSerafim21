@@ -1,10 +1,10 @@
-## Olá, meu nome é Luiz Henrique Serafim e sou um programador FULL-STACK ##
+## Hi, my name is Luiz Henrique Serafim and I'm a FULL-STACK programmer ##
 
-- 📚 Atualmente estudo Ciencia da Computação na FCT-UNESP
-- 💻 Tenho uma base forte em C/C++, Java e C#, e estou estudando Ciência de dados
-- 📫 Contate o EMAIL: luizhserafim2001@hotmail.com
-- 🖌 Portifolio Designe: https://photos.app.goo.gl/i8rH74DQvugSAsHt9
-- ⚡  Pronomes: Ele/Dele 
+- 📚 I am currently studying Computer Science at FCT-UNESP
+- 💻 I have a strong foundation in C/C++, Java, C# and HTML-CSS formatting, and I'm studying Data Science
+- 📫 Contact EMAIL: luizhserafim2001@hotmail.com
+- 🖌 Design Portfolio: https://photos.app.goo.gl/i8rH74DQvugSAsHt9
+- ⚡ Pronouns: He/His 
 
 <div align="center">
   <a href="https://github.com/LHSerafim21">
