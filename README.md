@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://github.com/LHSerafim21">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LHSerafim21&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github.com/LHSerafim21/LHSerafim21/blob/main/Imagens/Most%20Used%20Languages.png?raw=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHSerafim21&layout=compact&theme=radical" alt="">
 </div>
 
   <div style="display: inline_block"><br>
