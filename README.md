@@ -1,7 +1,7 @@
 ## Hi, my name is Luiz Henrique Serafim and I'm a FULL-STACK programmer ##
 
 - 📚 I am currently studying Computer Science at FCT-UNESP
-- 💻 I have a strong foundation in C/C++, Java, C# and HTML-CSS formatting, and I'm studying Data Science
+- 💻 I have a strong foundation in Python, C/C++, Java, C# and HTML-CSS formatting, and I'm studying Data Science
 - 📫 Contact EMAIL: luizhserafim2001@hotmail.com
 - 🖌 Design Portfolio: https://photos.app.goo.gl/i8rH74DQvugSAsHt9
 - ⚡ Pronouns: He/His 
